@@ -2,3 +2,4 @@ hello git
 git is amzing
 simulate conflict !!
 hhh,conflict again.
+resolve conflict...
